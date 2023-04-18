@@ -19,6 +19,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  shared_preferences: ^2.0.18
+  provider: ^6.0.5
+  theme_provider: ^0.5.0
+  day_night_switcher: ^0.2.0
+  get: ^4.6.5
 
 dev_dependencies:
   flutter_test:
